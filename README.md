@@ -1,37 +1,49 @@
-# 📊 Anushka's Data Science Portfolio
 
-Welcome to my Data Science Portfolio! This repository showcases my academic projects, programming skills and practical experience in Data Science, Machine Learning and Data Analytics.
+# Hi, I'm Anushka Santosh Powar! 👋
 
-## 👩‍💻 About Me
+### 🎓 Data Science Student | Aspiring Data Scientist
 
-I am a B.Sc. Data Science student interested in solving real-world problems using data analysis, Python and machine learning.
+Welcome to my GitHub! I am passionate about Data Science, Machine Learning, Python and solving real-world problems using data.
 
-## 🛠️ Technologies Used
+---
 
-- Python, SQL
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- Power BI, Tableau
-- Jupyter Notebook
-- HTML, CSS, JavaScript
+### 🚀 About Me
+- 🎓 Pursuing B.Sc. Data Science
+- 🐍 Working with Python and SQL
+- 🤖 Exploring Machine Learning and AI
+- 📊 Interested in Data Analytics and Visualization
+- 💡 Building practical projects and learning new technologies
 
-## 🚀 My Projects
+### 🛠️ Technical Skills
+
+**Languages:** Python, SQL, HTML, CSS, JavaScript
+
+**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+
+**Visualization:** Power BI, Tableau, Excel
+
+**Tools:** Jupyter Notebook, Git, GitHub
+
+### 📂 My Projects
 
 | Project | Description |
 |---|---|
-| Healthcare ML | Machine learning for healthcare prediction |
-| Student Performance Prediction | Predicting student performance using academic data |
-| Credit Card Approval Prediction | Machine learning classification for approval prediction |
-| AlgoViz | Visualizing data structures and algorithms |
+| AlgoViz | Data Structure Visualizer |
+| Healthcare ML | Machine Learning for Healthcare |
+| Student Performance | Student Result Prediction |
+| Credit Card Approval | Credit Approval Prediction |
 
-## 📂 Project Structure
+### 🌐 Connect With Me
 
-Each project will have its own folder containing source code, documentation and screenshots.
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushka-powar-26276733b)
+- GitHub: [@anushka5545](https://github.com/anushka5545)
 
-## 📫 Contact
+---
 
-- GitHub: https://github.com/anushka5545
-- LinkedIn: https://www.linkedin.com/in/anushka-powar-26276733b
+⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my portfolio!
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight)
