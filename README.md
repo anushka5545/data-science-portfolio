@@ -1,49 +1,37 @@
+# 📊 Anushka's Data Science Portfolio
 
-# Hi, I'm Anushka Santosh Powar! 👋
+Welcome to my Data Science Portfolio! This repository showcases my academic projects, programming skills and practical experience in Data Science, Machine Learning and Data Analytics.
 
-### 🎓 Data Science Student | Aspiring Data Scientist
+## 👩‍💻 About Me
 
-Welcome to my GitHub! I am passionate about Data Science, Machine Learning, Python and solving real-world problems using data.
+I am a B.Sc. Data Science student interested in solving real-world problems using data analysis, Python and machine learning.
 
----
+## 🛠️ Technologies Used
 
-### 🚀 About Me
-- 🎓 Pursuing B.Sc. Data Science
-- 🐍 Working with Python and SQL
-- 🤖 Exploring Machine Learning and AI
-- 📊 Interested in Data Analytics and Visualization
-- 💡 Building practical projects and learning new technologies
+- Python, SQL
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Power BI, Tableau
+- Jupyter Notebook
+- HTML, CSS, JavaScript
 
-### 🛠️ Technical Skills
-
-**Languages:** Python, SQL, HTML, CSS, JavaScript
-
-**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
-
-**Visualization:** Power BI, Tableau, Excel
-
-**Tools:** Jupyter Notebook, Git, GitHub
-
-### 📂 My Projects
+## 🚀 My Projects
 
 | Project | Description |
 |---|---|
-| AlgoViz | Data Structure Visualizer |
-| Healthcare ML | Machine Learning for Healthcare |
-| Student Performance | Student Result Prediction |
-| Credit Card Approval | Credit Approval Prediction |
+| Healthcare ML | Machine learning for healthcare prediction |
+| Student Performance Prediction | Predicting student performance using academic data |
+| Credit Card Approval Prediction | Machine learning classification for approval prediction |
+| AlgoViz | Visualizing data structures and algorithms |
 
-### 🌐 Connect With Me
+## 📂 Project Structure
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushka-powar-26276733b)
-- GitHub: [@anushka5545](https://github.com/anushka5545)
+Each project will have its own folder containing source code, documentation and screenshots.
 
----
+## 📫 Contact
 
-⭐ Thanks for visiting my profile!
+- GitHub: https://github.com/anushka5545
+- LinkedIn: https://www.linkedin.com/in/anushka-powar-26276733b
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight)
+⭐ Thank you for visiting my portfolio!
